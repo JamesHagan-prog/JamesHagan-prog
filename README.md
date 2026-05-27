@@ -53,8 +53,8 @@ This project is a fully functioning DEBIAN package, so it can be installed on an
 ---
 
 ### Merge Request Health Bot
-The Merge Request Health Bot (MRHB) is a pipeline to help developers work more efficently. 
-Developed as a GitLab extension, the MRHB automatically recieves merge requests, lints them, and then uses a rag pipeline to generate smart fixes.
+The Merge Request Health Bot (MRHB) is a pipeline to help developers work more efficiently. 
+Developed as a GitLab extension, the MRHB automatically receives merge requests, lint's them, and then uses a rag pipeline to generate smart fixes. 
 This project uses AI in a way to aid developers, not replace them.
 
 **Tech:** Python, Flask, AWS
