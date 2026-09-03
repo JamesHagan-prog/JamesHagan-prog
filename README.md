@@ -3,7 +3,7 @@
 I'm a software developer interested in full-stack development, backend engineering, and building practical applications that solve real problems.
 
 ## 🚀 About Me
-- 💻 Currently working on: Kruger Query App, Krueger Order and Inventory App
+- 💻 Currently working on: Kruger Online Portal
 - 🌱 Learning: Python, Kotlin Multiplatform
 - 🎯 Goal: Software Engineering Internship / Junior Developer Role
 - ⚡ Interests: Web development, APIs, automation, scalable systems
